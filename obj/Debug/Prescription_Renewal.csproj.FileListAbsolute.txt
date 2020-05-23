@@ -1,0 +1,56 @@
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\bin\Debug\Prescription_Renewal.exe.config
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\bin\Debug\Prescription_Renewal.exe
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\bin\Debug\Prescription_Renewal.pdb
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\bin\Debug\FlashButton.dll
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\bin\Debug\FlashButton.pdb
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.csprojAssemblyReference.cache
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.DLG_PrescriptionRenewal.resources
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.MainForm.resources
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.Properties.Resources.resources
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.csproj.GenerateResource.cache
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.csproj.CopyComplete
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.exe
+C:\Users\Nicolas.Chourot\Desktop\Prescription_Renewal - Solution\obj\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.exe.config
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\bin\Debug\FlashButton.dll
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\bin\Debug\FlashButton.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.MainForm.resources
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.Properties.Resources.resources
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.CopyComplete
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.DLG_PrescriptionRenewal.resources
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.exe.config
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\bin\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\bin\Debug\FlashButton.dll
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\bin\Debug\FlashButton.pdb
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.DLG_PrescriptionRenewal.resources
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.MainForm.resources
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.Properties.Resources.resources
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.csproj.CopyComplete
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Desktop\420-KA5 TP2 - Copie\420-KA5 TP2\Prescription_Renewal\obj\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\bin\Debug\Prescription_Renewal.exe.config
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\bin\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\bin\Debug\Prescription_Renewal.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\bin\Debug\FlashButton.dll
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\bin\Debug\FlashButton.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.csprojAssemblyReference.cache
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.DLG_PrescriptionRenewal.resources
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.MainForm.resources
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.Properties.Resources.resources
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.csproj.GenerateResource.cache
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.csproj.CopyComplete
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.exe
+C:\Users\Charles\Downloads\Charles_Bertrand\Charles_Bertrand\obj\Debug\Prescription_Renewal.pdb
